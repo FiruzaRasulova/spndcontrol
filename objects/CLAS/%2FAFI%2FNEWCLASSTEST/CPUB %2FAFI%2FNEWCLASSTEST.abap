@@ -4,3 +4,4 @@ class /afi/newclasstest definition
   create public .
 
   public section.
+  METHODS test1.
