@@ -1,0 +1,3 @@
+  METHOD TEST2.
+
+  ENDMETHOD.

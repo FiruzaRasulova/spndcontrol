@@ -4,4 +4,5 @@ CLASS /afi/spendcontroltestclass DEFINITION
   CREATE PUBLIC .
 
   PUBLIC SECTION.
-  methods test1.
+
+  METHODS test2.
