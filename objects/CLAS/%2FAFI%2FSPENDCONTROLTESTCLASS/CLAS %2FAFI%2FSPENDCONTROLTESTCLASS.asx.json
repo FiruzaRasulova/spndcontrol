@@ -83,7 +83,7 @@
   [
    {
     "CLSNAME":"/AFI/SPENDCONTROLTESTCLASS",
-    "CMPNAME":"TEST2",
+    "CMPNAME":"TEST1",
     "CMPTYPE":1,
     "MTDTYPE":0,
     "MTDTYPE2":0
@@ -96,7 +96,7 @@
   [
    {
     "CLSNAME":"/AFI/SPENDCONTROLTESTCLASS",
-    "CMPNAME":"TEST2",
+    "CMPNAME":"TEST1",
     "VERSION":1,
     "ALIAS":"",
     "REDEFIN":"",
@@ -218,12 +218,6 @@
     "METHODINDX":1,
     "METHODNAME":"TEST1",
     "FLAGS":0
-   },
-   {
-    "CLASSNAME":"/AFI/SPENDCONTROLTESTCLASS",
-    "METHODINDX":2,
-    "METHODNAME":"TEST2",
-    "FLAGS":0
    }
   ]
  },
@@ -288,17 +282,6 @@
    },
    {
     "NAME":"/AFI/SPENDCONTROLTESTCLASS====CM001",
-    "VARCL":"X",
-    "DBAPL":"S",
-    "DBNA":"D$",
-    "SUBC":"I",
-    "APPL":"S",
-    "FIXPT":"X",
-    "LDBNAME":"D$S",
-    "UCCHECK":"X"
-   },
-   {
-    "NAME":"/AFI/SPENDCONTROLTESTCLASS====CM002",
     "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",

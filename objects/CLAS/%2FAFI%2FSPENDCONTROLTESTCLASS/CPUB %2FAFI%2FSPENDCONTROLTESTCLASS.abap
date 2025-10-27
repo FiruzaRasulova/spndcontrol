@@ -5,4 +5,4 @@ CLASS /afi/spendcontroltestclass DEFINITION
 
   PUBLIC SECTION.
 
-  METHODS test2.
+  METHODS test1.
