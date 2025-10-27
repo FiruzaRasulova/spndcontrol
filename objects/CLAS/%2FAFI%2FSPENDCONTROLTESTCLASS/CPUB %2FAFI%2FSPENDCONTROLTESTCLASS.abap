@@ -1,8 +1,9 @@
-CLASS /afi/spendcontroltestclass DEFINITION
-  PUBLIC
-  FINAL
-  CREATE PUBLIC .
+class /afi/spendcontroltestclass definition
+  public
+  final
+  create public .
 
-  PUBLIC SECTION.
+  public section.
 
-  METHODS test1.
+    methods test1.
+    methods test3.

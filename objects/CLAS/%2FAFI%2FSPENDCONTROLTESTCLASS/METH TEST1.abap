@@ -1,3 +1,3 @@
-  METHOD TEST1.
+  method test1.
 
-  ENDMETHOD.
+  endmethod.

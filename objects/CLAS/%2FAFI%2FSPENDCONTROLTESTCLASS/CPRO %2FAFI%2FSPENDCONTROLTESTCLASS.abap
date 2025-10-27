@@ -1,1 +1,1 @@
-  PROTECTED SECTION.
+  protected section.

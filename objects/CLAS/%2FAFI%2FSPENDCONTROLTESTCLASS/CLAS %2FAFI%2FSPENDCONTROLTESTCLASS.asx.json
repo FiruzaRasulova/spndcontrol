@@ -87,6 +87,13 @@
     "CMPTYPE":1,
     "MTDTYPE":0,
     "MTDTYPE2":0
+   },
+   {
+    "CLSNAME":"/AFI/SPENDCONTROLTESTCLASS",
+    "CMPNAME":"TEST3",
+    "CMPTYPE":1,
+    "MTDTYPE":0,
+    "MTDTYPE2":0
    }
   ]
  },
@@ -105,7 +112,66 @@
     "EDITORDER":1,
     "LOCKED":"",
     "DISPID":0,
-    "R3RELEASE":"916",
+    "R3RELEASE":"",
+    "AUTHOR":"",
+    "CREATEDON":"2025-10-27",
+    "CHANGEDBY":"",
+    "CHANGEDON":"0000-00-00",
+    "MTDDECLTYP":0,
+    "MTDABSTRCT":"",
+    "MTDFINAL":"",
+    "DSRNOTEOM":"",
+    "EDTX":"",
+    "MTDNEWEXC":"",
+    "MTDREPLACE":"",
+    "MTDOPTNL":"",
+    "MTDSQLSERVICE":"",
+    "MTDAMDPRDONLY":"",
+    "MTDAMDPCDSCLNT":"",
+    "MTDAMDPCLNTINDEP":"",
+    "ATTDECLTYP":0,
+    "ATTDYNAMIC":"",
+    "ATTGETMTD":"",
+    "ATTSETMTD":"",
+    "ATTRDONLY":"",
+    "ATTVALUE":"",
+    "ATTPERSIST":"",
+    "ATTBUSOBJ":"",
+    "ATTKEYFLD":"",
+    "ATTEXPVIRT":0,
+    "EVTDECLTYP":0,
+    "TYPDUMMY":"",
+    "TYPTYPE":0,
+    "TYPE":"",
+    "TABLEOF":"",
+    "SRCROW1":0,
+    "SRCCOLUMN1":0,
+    "SRCROW2":0,
+    "SRCCOLUMN2":0,
+    "REFCLSNAME":"",
+    "REFINTNAME":"",
+    "REFCMPNAME":"",
+    "BCMTDINST":"",
+    "BCMTDCAT":0,
+    "BCMTDDIA":"",
+    "BCMTDCOM":"",
+    "BCMTDSYN":0,
+    "BCEVTCAT":0,
+    "TYPESRC_LENG":0,
+    "TYPESRC":""
+   },
+   {
+    "CLSNAME":"/AFI/SPENDCONTROLTESTCLASS",
+    "CMPNAME":"TEST3",
+    "VERSION":1,
+    "ALIAS":"",
+    "REDEFIN":"",
+    "EXPOSURE":2,
+    "STATE":1,
+    "EDITORDER":2,
+    "LOCKED":"",
+    "DISPID":0,
+    "R3RELEASE":"758",
     "AUTHOR":"",
     "CREATEDON":"2025-10-27",
     "CHANGEDBY":"",
@@ -170,6 +236,12 @@
     "CMPNAME":"TEST2",
     "LANGU":"D",
     "DESCRIPT":""
+   },
+   {
+    "CLSNAME":"/AFI/SPENDCONTROLTESTCLASS",
+    "CMPNAME":"TEST3",
+    "LANGU":"D",
+    "DESCRIPT":""
    }
   ]
  },
@@ -217,6 +289,12 @@
     "CLASSNAME":"/AFI/SPENDCONTROLTESTCLASS",
     "METHODINDX":1,
     "METHODNAME":"TEST1",
+    "FLAGS":0
+   },
+   {
+    "CLASSNAME":"/AFI/SPENDCONTROLTESTCLASS",
+    "METHODINDX":2,
+    "METHODNAME":"TEST3",
     "FLAGS":0
    }
   ]
@@ -278,7 +356,7 @@
     "APPL":"S",
     "FIXPT":"X",
     "LDBNAME":"D$S",
-    "UCCHECK":"5"
+    "UCCHECK":"X"
    },
    {
     "NAME":"/AFI/SPENDCONTROLTESTCLASS====CM001",
@@ -289,7 +367,18 @@
     "APPL":"S",
     "FIXPT":"X",
     "LDBNAME":"D$S",
-    "UCCHECK":"5"
+    "UCCHECK":"X"
+   },
+   {
+    "NAME":"/AFI/SPENDCONTROLTESTCLASS====CM002",
+    "VARCL":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "APPL":"S",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
    },
    {
     "NAME":"/AFI/SPENDCONTROLTESTCLASS====CO",
@@ -300,7 +389,7 @@
     "APPL":"S",
     "FIXPT":"X",
     "LDBNAME":"D$S",
-    "UCCHECK":"5"
+    "UCCHECK":"X"
    },
    {
     "NAME":"/AFI/SPENDCONTROLTESTCLASS====CP",
@@ -333,7 +422,7 @@
     "APPL":"S",
     "FIXPT":"X",
     "LDBNAME":"D$S",
-    "UCCHECK":"5"
+    "UCCHECK":"X"
    }
   ]
  }
