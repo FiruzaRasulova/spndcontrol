@@ -1,6 +1,6 @@
 {
-"fingerprints":
-[
+ "fingerprints":
+ [
   {
    "name":"CINC /AFI/SPENDCONTROLTESTCLASS====CCAU.abap",
    "fingerprint":"yDuERYFutAHbR3bKj7DYlVniI53a4l1rhs6h0Mm+1q9vl1ZmhxIpQf8gAXx8dXkuR45Xj8p2vvltfWnbgYLYRg=="
@@ -19,7 +19,7 @@
   },
   {
    "name":"CLAS /AFI/SPENDCONTROLTESTCLASS.asx.json",
-   "fingerprint":"ITzc0TAIF/75lsxaBSLuOiKeBbz7dph/qAO6xtUcLyylCIxmRkvHqNqAeyH13zBVV/oxYTRwRe9L4OuNPXN2Sg=="
+   "fingerprint":"/OUv273By6HgRb1H3vVPephvFcrfoe43k/YI/Bg+ZJQQ7gvac6G3DgPqPc6yL/vMy8cjjtjuHZxszgxheF3lvA=="
   },
   {
    "name":"CLSD /AFI/SPENDCONTROLTESTCLASS.abap",
@@ -27,24 +27,24 @@
   },
   {
    "name":"CPRI /AFI/SPENDCONTROLTESTCLASS.abap",
-   "fingerprint":"F5+DLoS8shyclaKdVD/CFwz53Ae8A7tAelXQ7MFwQpPkBkQHJ3pCiX6ixrp9FOkObxOowHYeXNM+S2fmNJiRaQ=="
+   "fingerprint":"GpU6u3hJUmqUxQZ1w8+RCOGPq5sVb1LpS7zniQDE8fDRQVBTGenBpOQNukX1sQZzQ2GyYa2sSYw8XdqDKpohyA=="
   },
   {
    "name":"CPRO /AFI/SPENDCONTROLTESTCLASS.abap",
-   "fingerprint":"pAwXKVi//RPJj0MK5K5MiMoyTEORe1/kA/UNW3xHiYTORnXvF7GKU+2tZFc1q+NTQcsE+Qp3u73CiMok7AKPeg=="
+   "fingerprint":"CwQpQRBCWDG1IV6enI/cM+18UNZdoBCEPJ/b4gEmV/kd8mfghYXG/5kl9HMivYdKUnvmE0iyjidqmrHVSRKieQ=="
   },
   {
    "name":"CPUB /AFI/SPENDCONTROLTESTCLASS.abap",
-   "fingerprint":"3ofBIp7C0TGEKeLyusiWbJJChWgYffjM3JWE9oQDC5cx89AvDyzfvM+Fc/h40zMXURIUFYoYtWYiPhTziFR5Eg=="
+   "fingerprint":"xPT1sqcZu6ZOGiA+gLFLrra9R9i+kC1BAW/Nb7hKAX/O9DuhF5nk/P1kU1+bdbt9/MQqrNFCUwzqDKdi/ThE8Q=="
   },
   {
    "name":"METH TEST3.abap",
-   "fingerprint":"LRi9ZgjUH0wya5RBLjsczDSqaGln5OGesxwMDNerDDJHs25maaQfPpkJ7zuZRRCAkbEm5TCX8s/kW2MCcVzGrA=="
+   "fingerprint":"sp2XJDomAPHc2MG3CVwxBNEhO2K0AnBYX+MoMWvPyJ5JRqaiWxtAq5Y0Py1djBS32zxqhmH6TNsiuyLoB82cgQ=="
   },
   {
    "name":"REPS /AFI/SPENDCONTROLTESTCLASS====CT.abap",
    "fingerprint":"AD6Rft1j4PkZC/1nH63AKnl7uCEmpqJsRyxZ4MjpFhmpInIen3aWJjE5xz4V5Znu5+VpOCvvCwsJtO15kOSVHg=="
   }
-],
-"fingerprintAll":"9eHKhMy+kKX8ZrM/yCnAwKWdt789cQotrW7n/QPkQskz9eTa3uvZZvCaehDUd57knWjWlRNBmJuC3Lja6gEiMA=="
+ ],
+ "fingerprintAll":"SrV6EgVDJEQ0C840u+477thpW/3058WWEE0+168T3FMpnMLLj1hf7k58UmbHKKhlKevj7jDkwwIjxUyBzEnm9g=="
 }
