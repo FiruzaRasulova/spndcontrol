@@ -1,0 +1,50 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC /AFI/TESTPROGRAM==============CCAU.abap",
+   "fingerprint":"JQixAptJMynnvySIjZ73KIqxMia/l/eMtmL4/29KbJd1sG6euhALnyYe0Xd0MRPd08eswHv0E9suM8cdKEa3ag=="
+  },
+  {
+   "name":"CINC /AFI/TESTPROGRAM==============CCDEF.abap",
+   "fingerprint":"Cf+FsuXKDQxFi3JWfOMjIb0wri2+jyVxo8XHDKE684hKCWyzsOqteySgIKUIYUbqgqoRP0oRqpQSgZfo7KSWqw=="
+  },
+  {
+   "name":"CINC /AFI/TESTPROGRAM==============CCIMP.abap",
+   "fingerprint":"zKlDiiQKlvAt3YxTPv39KlTTMHGo5KDS8rjBkQpzSw4GFdJpMgWvq4kXoxF0Ad3PSFg+Sv0wbEK/EVVA4UlTJg=="
+  },
+  {
+   "name":"CINC /AFI/TESTPROGRAM==============CCMAC.abap",
+   "fingerprint":"Ae5YtLz0m0n7TKuxaTy1IMulS6t63+1ORiKAx8ZAcZhlmqOhb1b+a9MBaeCMhWEYkK2uFOKq7eRSKvDWRp9K7A=="
+  },
+  {
+   "name":"CLAS /AFI/TESTPROGRAM.asx.json",
+   "fingerprint":"BY4+FZ/ROUZVa8SJB5uBey1lgvWbBAjse/sAkV9mHxpBD/ZkM2k78PzJuoWP5bxQJOzsapjrCIfBfIgYrYSjzA=="
+  },
+  {
+   "name":"CLSD /AFI/TESTPROGRAM.abap",
+   "fingerprint":"lHTOu0TSBLuDvlcSDaPkEYx1fauOeULs6QWM+k6HJqKIQZBz2jVNjy/pPHaGUojPSaFcddo+ZMcDoTcJip34xw=="
+  },
+  {
+   "name":"CPRI /AFI/TESTPROGRAM.abap",
+   "fingerprint":"7VzzWPfawJRcLQhU4EzP6uh2+LBRDZnszua0iPhW2NW54gKeD4TQpd21KTevsVXD/EdbWW2SR7riE1hton3qxg=="
+  },
+  {
+   "name":"CPRO /AFI/TESTPROGRAM.abap",
+   "fingerprint":"spurF8juu1VPlSK33lEdSrp0/rW8bMliF3/kElCaM71foCSXfY/W2rzMwEe/6w012T84hawNi75p1s+d0vkKFQ=="
+  },
+  {
+   "name":"CPUB /AFI/TESTPROGRAM.abap",
+   "fingerprint":"ySaGicvAfzKyyXbWY/YsN/VLnFiB88sS2T1UBsdpIOYUpNNdc7Z4+I5NR4yHtXwSsA7KOyeveX9No1PBHsspfA=="
+  },
+  {
+   "name":"METH IF_OO_ADT_CLASSRUN~MAIN.abap",
+   "fingerprint":"I9Qp8kdajqIJiEsAyx6o7oUVEQLRJFCYj9atdxufBix+QacvMN8K/+6Q0DUktgcEOPupGDQ0svrTAcz6NgHFQA=="
+  },
+  {
+   "name":"REPS /AFI/TESTPROGRAM==============CT.abap",
+   "fingerprint":"LDeKGTBbI9uXMKdrgYfUTAkn2a3VqHXDHVNu87RXZ3DJr0zvdlv9ViMvbaZ8APoSRG+CtOr9MGWlxYXp5gx0AQ=="
+  }
+ ],
+ "fingerprintAll":"Lbtpzvuphb57AyhJM9BUxZ8CAYEczM9wU/KCL1W5CKjWNiY7Vac+032GHrzlx9vd/RJxqYBB0vA+PqaTOSb9Hg=="
+}
